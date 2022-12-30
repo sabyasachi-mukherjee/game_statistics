@@ -128,3 +128,4 @@ dmypy.json
 # Pyre type checker
 .pyre/
 mukherjee_phoenix_games_packaged.twbx
+sod_battle_short.csv
